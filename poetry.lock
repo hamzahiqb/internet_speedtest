@@ -1,0 +1,17 @@
+[[package]]
+category = "main"
+description = "Command line interface for testing internet bandwidth using speedtest.net"
+name = "speedtest-cli"
+optional = false
+python-versions = "*"
+version = "2.1.2"
+
+[metadata]
+content-hash = "d67cfd1fa7267ebf6cf472526004cf2161e8eb91f5313d40e29d5043e82159fc"
+python-versions = "^3.8"
+
+[metadata.files]
+speedtest-cli = [
+    {file = "speedtest-cli-2.1.2.tar.gz", hash = "sha256:cf1d386222f94c324e3125ba9a0d187e46d4a13dca08c023bdb9a23096be2e54"},
+    {file = "speedtest_cli-2.1.2-py2.py3-none-any.whl", hash = "sha256:2335306da12014c2da750db3befa3ddf424a303ddbaa399fbfb6a1bf870a5532"},
+]
