@@ -1,0 +1,1 @@
+30 * * * * cd /Users/hamzaiqb/Documents/personal/internet_speedtest && ./runner.sh
